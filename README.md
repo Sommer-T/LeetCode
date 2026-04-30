@@ -56,6 +56,7 @@ Computer Science student focused on software engineering, Python development, an
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sommer-T/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0392-is-subsequence](https://github.com/Sommer-T/LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -65,4 +66,8 @@ Computer Science student focused on software engineering, Python development, an
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sommer-T/LeetCode/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sommer-T/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
