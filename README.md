@@ -61,6 +61,7 @@ Computer Science student focused on software engineering, Python development, an
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sommer-T/LeetCode/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Sommer-T/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -72,4 +73,8 @@ Computer Science student focused on software engineering, Python development, an
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sommer-T/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sommer-T/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sommer-T/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
